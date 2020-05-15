@@ -5,5 +5,3 @@ CREATE TABLE tb_registro(
  tel_registro varchar(25) DEFAULT NULL,
  PRIMARY KEY(id_registro))
  ENGINE=INNODB AUTO_INCREMENT=1
-
-modificado
