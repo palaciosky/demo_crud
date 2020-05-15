@@ -1,1 +1,4 @@
+crud_base\Create.class
 crud_base\MenuPrincipal.class
+crud_base\ConexionCRUD.class
+crud_base\Persona.class

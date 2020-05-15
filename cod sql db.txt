@@ -1,0 +1,7 @@
+CREATE TABLE tb_registro(
+ id_registro int(11) NOT NULL AUTO_INCREMENT,
+ nom_registro varchar(45) DEFAULT NULL,
+ email_registro varchar(45) DEFAULT NULL,
+ tel_registro varchar(25) DEFAULT NULL,
+ PRIMARY KEY(id_registro))
+ ENGINE=INNODB AUTO_INCREMENT=1
