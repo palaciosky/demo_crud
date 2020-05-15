@@ -22,7 +22,7 @@ public class MenuPrincipal {
         String opcionMenu;
         //menu que se va a desplegar
         System.out.println("***************************************");
-        System.out.println("|   MENU CRUD DE ESTUDIANTES            ");
+        System.out.println("|   MENU CRUD DE INFORMACION            ");
         System.out.println("****************************************");
         System.out.println("| Opciones: |");
         System.out.println("|           1. Crear registros          ");
