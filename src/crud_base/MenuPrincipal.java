@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Palacios
+ * @author Palacios 2020
  */
 public class MenuPrincipal {
     public static void main(String[] args) throws SQLException {
