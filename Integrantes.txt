@@ -1,5 +1,7 @@
-Guillermo Mauricio Palacios Ortiz   #192219
-Nelson Willy Ticas Henriquez        #187419
-Flor de Maria Carballo Diaz         #186119
-Fredis Alexis Castellanos Casco     #188219 //Trabajo teorico, ya que no cuenta con computadora.
+SISTEMAS 21
 
+Guillermo Mauricio Palacios Ortiz   #192219 //Scrum Master
+Nelson Willy Ticas Henriquez        #187419 //Backend
+Flor de Maria Carballo Diaz         #186119 //Frontend/Diseñador
+Fredis Alexis Castellanos Casco     #188219 //Analista/Trabajo teorico, ya que no cuenta con computadora.
+Kevin Alberto Aparicio Ramirez      #261019 //Suplente de Backend
