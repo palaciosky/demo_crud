@@ -23,7 +23,7 @@ public class Create {
         System.out.println("| Correo Electronico |");
         person.setEmailRegistro(leer.nextLine());
         
-        System.out.println("| Numero Telefonico  |");
+        System.out.println("| Telefonico  |");
         person.setTelRegistro(leer.nextLine());
         
         
