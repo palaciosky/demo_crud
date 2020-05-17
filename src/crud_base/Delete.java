@@ -24,7 +24,7 @@ public class Delete {
         String condicion = "id_estudiante = "+idEstudianteEliminar;
         utilerias.desplegarRegistros(tabla, campos, condicion);
         
-        System.out.println("¿Estas seguro brou? Presione <Y> PARA ELIMINAR");
+        System.out.println("¿Estas seguro? Presione <Y> PARA ELIMINAR");
         String confirmarBorrar = leer.next();
         
         if ("Y".equals(confirmarBorrar)) {
@@ -32,7 +32,7 @@ public class Delete {
             //envie solamente los parametros de tabla y condicion y poder eliminar
             String valoresCamposNuevos = "";
             utilerias.actualizarEliminarRegistro(tabla, valoresCamposNuevos, condicion);
-            System.out.println("Registro borrado sastifactoriamente");
+            System.out.println("Registro Eliminado sastifactoriamente");
         }
        MenuPrincipal.desplegarMenu();
     }
