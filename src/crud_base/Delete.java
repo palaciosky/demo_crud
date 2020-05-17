@@ -17,11 +17,11 @@ public class Delete {
         System.out.println("<< ELIMINAR REGISTROS >>");
          
         System.out.println("Ingrese el id del registro: ");
-        String idEstudianteEliminar =leer.next();
+        String idRegistroEliminar =leer.next();
         //Reingreso de datos para actualizar
         String tabla = "tb_inf";
         String campos = "*";
-        String condicion = "id_registro = "+idEstudianteEliminar;
+        String condicion = "id_registro = "+idRegistroEliminar;
         utilerias.desplegarRegistros(tabla, campos, condicion);
         
         System.out.println("¿Estas seguro? Presione <Y> PARA ELIMINAR");
